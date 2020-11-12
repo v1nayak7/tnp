@@ -107,7 +107,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>1.</p>
 						</div>
 						<div class="products-text">
-							<h4>Tata Consultancy Services</h4>
+							<h4>L&T InfoTech</h4>
 							<p>Details about it...</p>
 							<div class="see-button">
 								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
@@ -120,7 +120,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>2.</p>
 						</div>
 						<div class="products-text">
-							<h4>Infosys</h4>
+							<h4>Reliance JIO</h4>
 							<p>Details</p>
 							<div class="see-button">
 								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
@@ -133,7 +133,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>3.</p>
 						</div>
 						<div class="products-text">
-							<h4>Google</h4>
+							<h4>GreyB Analytics</h4>
 							<p></p>
 							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 						</div>
@@ -147,7 +147,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>4.</p>
 						</div>
 						<div class="products-text">
-							<h4>Microsoft</h4>
+							<h4>Capgemini</h4>
 							<p></p>
 							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 						</div>
@@ -158,7 +158,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>5.</p>
 						</div>
 						<div class="products-text">
-							<h4>Directi </h4>
+							<h4>UnitedHealth Group </h4>
 							<p></p>
 							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 						</div>
@@ -169,7 +169,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>6.</p>
 						</div>
 						<div class="products-text">
-							<h4>Intel</h4>
+							<h4>Amazon</h4>
 							<p></p>
 							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 						</div>

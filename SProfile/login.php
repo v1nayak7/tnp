@@ -161,7 +161,7 @@
                   </div>
                   <div class="media-body">
                     <h2 class="media-heading text-uppercase">Upcomming Events</h2>
-                    <p>Brace yourself for the Events that will take ur breath away. Get Started and be a Part of CUSAT-SOE Family</p>
+                    <p>Brace yourself for the Events that will take ur breath away. Get Started and be a Part of IIIT UNA Family</p>
                   </div>
                 </div>
               </div>
@@ -185,32 +185,32 @@
                     <tbody>
                       <tr>
                         <td>1.</td>
-                        <td>John</td>
-                        <td>Smith</td>
+                        <td>Ishu</td>
+                        <td>Agarwal</td>
                         <td>@jS</td>
                       </tr>
                       <tr>
                         <td>2.</td>
-                        <td>Bill</td>
-                        <td>Jones</td>
+                        <td>Harsh</td>
+                        <td>Gupta</td>
                         <td>@bJ</td>
                       </tr>
                       <tr>
                         <td>3.</td>
-                        <td>Mary</td>
-                        <td>James</td>
+                        <td>Akash</td>
+                        <td>Gupta</td>
                         <td>@mJ</td>
                       </tr>
                       <tr>
                         <td>4.</td>
-                        <td>Steve</td>
-                        <td>Bride</td>
+                        <td>Naveen</td>
+                        <td>Katiyar</td>
                         <td>@sB</td>
                       </tr>
                       <tr>
                         <td>5.</td>
-                        <td>Paul</td>
-                        <td>Richard</td>
+                        <td>Utkarsh</td>
+                        <td>Tiwari</td>
                         <td>@pR</td>
                       </tr>
                     </tbody>

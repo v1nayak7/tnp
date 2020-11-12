@@ -137,9 +137,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="jumbotron banner-bottom-left wow fadeInLeft animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;	">
 							<h3>Latest Drive</h3>
 							<h5>Drive Description
-								<span>ABC Corporation</span>
+								<span>SAMSUNG</span>
 							</h5>
-							<p>Few Lines about Drive</p>
+							<p>SDE (7-10lpa)</p>
 							<div class="see-button">
 								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
 							</div>

@@ -80,8 +80,8 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../Homepage/index.php">Home CUSAT-SOE</a></li>
-                <li><a href="">Drives Home</a></li>
+               <li><a href="../../Homepage/index.php">Home IIIT TnP</a></li>
+                <li><a href="../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php" class="active">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
               </ul>  
@@ -119,8 +119,8 @@
 		  </div>
 		 
           <footer class="text-right">
-           <p>Copyright &copy; 2018 CUSAT-SOE 
-              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
+          <!-- <p>Copyright &copy; 2018 CUSAT-SOE 
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>-->
           </footer>
         </div>
       </div>

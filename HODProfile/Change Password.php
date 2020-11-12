@@ -59,7 +59,7 @@
           </div>
         <nav class="templatemo-left-nav">
         <ul>
-            <li><a href="#"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="login.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
             <li><a href="manage-student.php"><i class="fa fa-users fa-fw"></i>Manage Students</a></li>
             <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
@@ -72,8 +72,8 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                <li><a href="../../Homepage/index.php">Home CUSAT-SOE</a></li>
-                <li><a href="../../Drives/index.php">Drives</a></li>
+                <li><a href="../Homepage/index.php">Home IIIT TnP</a></li>
+                <li><a href="../Drives/index.php">Drives</a></li>
     <li><a href="Notif.php">Notification</a></li>
 	<li><a href="Change Password.php" class="active">Change Password</a></li>
               </ul>
@@ -111,8 +111,8 @@
             </form>
           </div>
           <footer class="text-right">
-            <p>Copyright &copy; 2018 CUSAT-SOE
-            | Developed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>
+           <!-- <p>Copyright &copy; 2018 CUSAT-SOE
+            | Developed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>-->
           </footer>
         </div>
       </div>

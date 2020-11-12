@@ -79,7 +79,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                  <li><a href="../../Homepage/indes.php">Home CUSAT-SOE</a></li>
+                  <li><a href="../../Homepage/indes.php">Home IIIT TnP</a></li>
                 <li><a href="">Drives Home</a></li>
                 <li><a href="Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -164,8 +164,8 @@
             </div>
           </div>
           <footer class="text-right">
-            <p>Copyright &copy; 2018 CUSAT-SOE
-            | Designed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>
+           <!-- <p>Copyright &copy; 2018 CUSAT-SOE
+            | Designed by <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>-->
           </footer>
         </div>
       </div>

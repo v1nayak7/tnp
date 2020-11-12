@@ -49,7 +49,7 @@
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="images/b117.jpg" alt="Profile Photo" class="img-responsive">
+          <img src="images/b117.png" alt="Profile Photo" class="img-responsive">
           <div class="profile-photo-overlay"></div>
         </div>
         <!-- Search box -->
@@ -77,8 +77,8 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                <li><a href="../../Homepage/index.php">Home CUSAT-SOE</a></li>
-                <li><a href="../../Drives/index.php">Drives</a></li>
+                <li><a href=".../Homepage/index.php">IIIT TnP</a></li>
+                <li><a href="../Drives/index.php">Drives</a></li>
     <li><a href="Notif.php">Notification</a></li>
 	<li><a href="Change Password.php">Change Password</a></li>
               </ul>
@@ -90,7 +90,7 @@
             <div class="templatemo-content-widget white-bg col-2">
               <i class="fa fa-times"></i>
               <div class="square"></div>
-              <h2 class="templatemo-inline-block">Welcome to CUSAT-SOE</h2><hr>
+              <h2 class="templatemo-inline-block">Welcome to IIIT TnP</h2><hr>
               <p>Being The Head of the Department, Its the Duty of you to take your students and Faculties to the right way. Approve the details of students in Manage Students tab. You may Revoke the Details and Approve them if it is Wrong and Entered Correctly Respectively.</p>
               <p><a href="manage-student.php">Approve the Students</a></p>
               <p><a href="manage-student.php">View Student Details</a></p>
@@ -156,41 +156,41 @@
                   <table class="table table-striped table-bordered">
                     <thead>
                       <tr>
-                        <td>No.</td>
+                      <td>No.</td>
                         <td>First Name</td>
                         <td>Last Name</td>
-                        <td>Designation</td>
+                        <td>USN</td>
                       </tr>
                     </thead>
                     <tbody>
                       <tr>
                         <td>1.</td>
-                        <td>John</td>
-                        <td>Smith</td>
+                        <td>Mr. Suveer</td>
+                        <td>Guleria</td>
                         <td>@jS</td>
                       </tr>
                       <tr>
                         <td>2.</td>
-                        <td>Bill</td>
-                        <td>Jones</td>
+                        <td>Mr. Satish</td>
+                        <td>Kumar</td>
                         <td>@bJ</td>
                       </tr>
                       <tr>
                         <td>3.</td>
-                        <td>Mary</td>
-                        <td>James</td>
+                        <td>Dr. Nitish</td>
+                        <td>Katal</td>
                         <td>@mJ</td>
                       </tr>
                       <tr>
                         <td>4.</td>
-                        <td>Steve</td>
-                        <td>Bride</td>
+                        <td>Dr. Priyabrat</td>
+                        <td>Garanayak</td>
                         <td>@sB</td>
                       </tr>
                       <tr>
                         <td>5.</td>
-                        <td>Paul</td>
-                        <td>Richard</td>
+                        <td>Dr. Sumit</td>
+                        <td>Kumar</td>
                         <td>@pR</td>
                       </tr>
                     </tbody>
@@ -201,8 +201,8 @@
           </div> <!-- Second row ends -->
 
           <footer class="text-right">
-           <p>Copyright &copy; 2018 CUSAT-SOE | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">Hypermine Technologies</a>
+           <!--<p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">Hypermine Technologies</a>-->
           </footer>
         </div>
       </div>

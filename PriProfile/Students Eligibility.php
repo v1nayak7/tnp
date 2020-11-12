@@ -72,10 +72,10 @@
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
                   <li>
-                  <a href="../../Homepage/index.php">Home CUSAT-SOE</a>
+                  <a href="../Homepage/index.php">Home IIIT TnP</a>
                 </li>
                 <li>
-                  <a href="../../Drives/index.php">Drives Homepage</a>
+                  <a href="../Drives/index.php">Drives Homepage</a>
                 </li>
                 <li>
                   <a href="Notif.php">Notification</a>
@@ -100,10 +100,10 @@
 					   <option value="">Branch</option>
                     <option value="ISE">IT</option>
                     <option value="CSE">CSE</option>
-                    <option value="EEE">EEE</option>
+                   <!-- <option value="EEE">EEE</option>-->
                     <option value="ECE">ECE</option>
-                    <option value="ME">ME</option>
-                    <option value="CVE">CVE</option>
+                   <!-- <option value="ME">ME</option>
+                    <option value="CVE">CVE</option>-->
                   </select>
                 </div>
 				<div class="col-lg-6 col-md-6 form-group">
@@ -155,8 +155,8 @@
           </div>
 
           <footer class="text-right">
-             <p>Copyright &copy; 2018 CUSAT-SOE |
-              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>
+            <!-- <p>Copyright &copy; 2018 CUSAT-SOE |
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a></p>--?
           </footer>
         </div>
       </div>

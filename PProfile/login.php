@@ -44,7 +44,7 @@
 		  ?>>
         </header>
         <div class="profile-photo-container">
-          <img src="images/princpal.jpg" alt="Profile Photo" class="img-responsive">
+          <img src="images/princpal.png" alt="Profile Photo" class="img-responsive">
           <div class="profile-photo-overlay"></div>
         </div>
         <!-- Search box -->
@@ -74,8 +74,8 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../Homepage/index.php">Home CUSAT-SOE</a></li>
-                <li><a href="../../Drives/index.php">Drives Home</a></li>
+               <li><a href="../Homepage/index.php">Home IIIT TnP</a></li>
+                <li><a href="../Drives/index.php">Drives Home</a></li>
                 <li><a href="Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
               </ul>
@@ -87,9 +87,9 @@
             <div class="templatemo-content-widget white-bg col-2">
               <i class="fa fa-times"></i>
               <div class="square"></div>
-              <h2 class="templatemo-inline-block">Welcome to CUSAT-SOE</h2>
+              <h2 class="templatemo-inline-block">Welcome to IIIT TnP</h2>
               <p></p>
-              <p>Hello Officer! Have a great day with us! With CUSAT-SOE Account, You can add drives, Send Notifications and View the Eligibility Criteria of Students.</p>
+              <p>Hello Officer! Have a great day with us! With IIIT TnP Account, You can add drives, Send Notifications and View the Eligibility Criteria of Students.</p>
               <p>Hope you enjoy doing that. Greetings!!</p>
               <p><a href="Placement Drives.php">Placement Drives</a></p>
               <p><a href="manage-users.php">View Students</a></p>
@@ -151,7 +151,7 @@
             <div class="col-1">
               <div class="panel panel-default templatemo-content-widget white-bg no-padding templatemo-overflow-hidden">
                 <i class="fa fa-times"></i>
-                <div class="panel-heading templatemo-position-relative"><h2 class="text-uppercase">Other PTO Details</h2></div>
+                <div class="panel-heading templatemo-position-relative"><h2 class="text-uppercase">Other TPR Details</h2></div>
                 <div class="table-responsive">
                   <table class="table table-striped table-bordered">
                     <thead>
@@ -164,33 +164,33 @@
                     </thead>
                     <tbody>
                       <tr>
-                        <td>1.</td>
-                        <td>John</td>
-                        <td>Smith</td>
+                      <td>1.</td>
+                        <td>Hardik</td>
+                        <td>Lakra</td>
                         <td>@jS</td>
                       </tr>
                       <tr>
                         <td>2.</td>
-                        <td>Bill</td>
-                        <td>Jones</td>
+                        <td>Raushan</td>
+                        <td>Kumar</td>
                         <td>@bJ</td>
                       </tr>
                       <tr>
                         <td>3.</td>
-                        <td>Mary</td>
-                        <td>James</td>
+                        <td>Parthivi</td>
+                        <td>Jain</td>
                         <td>@mJ</td>
                       </tr>
                       <tr>
                         <td>4.</td>
-                        <td>Steve</td>
-                        <td>Bride</td>
+                        <td>Naveen</td>
+                        <td>Katiyar</td>
                         <td>@sB</td>
                       </tr>
                       <tr>
                         <td>5.</td>
-                        <td>Paul</td>
-                        <td>Richard</td>
+                        <td>Vinayak</td>
+                        <td>Mishra</td>
                         <td>@pR</td>
                       </tr>
                     </tbody>
@@ -201,8 +201,8 @@
           </div> <!-- Second row ends -->
 
           <footer class="text-right">
-           <p>Copyright &copy; 2018 CUSAT-SOE | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>
+          <!-- <p>Copyright &copy; 2018 CUSAT-SOE | Developed by
+              <a href="http://znumerique.azurewebsites.net" target="_parent">HyperMine</a>-->
             </p>
           </footer>
         </div>

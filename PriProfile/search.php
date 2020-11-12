@@ -1,6 +1,6 @@
 <?php
   session_start();
- if (isset($_SESSION['pusername'])){
+ if (isset($_SESSION['priusername'])){
     
 	
 	   }
@@ -40,8 +40,8 @@
           </div>     
           
           <footer class="text-right">
-            <p>Copyright &copy; 2015 CIT-PMS | Designed by
-              <a href="http://www.wafferdevelopers.com" target="_parent">Waffer Developers</a>
+          <!--  <p>Copyright &copy; 2015 CIT-PMS | Designed by
+              <a href="http://www.wafferdevelopers.com" target="_parent">Waffer Developers</a>-->
             </p>
           </footer>      
         </div>
